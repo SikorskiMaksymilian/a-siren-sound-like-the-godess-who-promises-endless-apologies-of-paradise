@@ -1,0 +1,91 @@
+.container-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+    color: white;
+    width: 60%;
+    padding: 5px;
+}
+
+#man {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html {
+    background-color: rgb(41, 41, 41);
+    font-family: monospace;
+    font-size: 120%;
+}
+
+#fleksik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.baner
+ {
+    background-color: rgba(35, 35, 41, 0.68);
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+#panelnaw {
+    float: left;
+    width: 20%;
+    height: 670px;
+    background-color: rgba(47, 47, 55, 0.68);
+    color: white;
+    font-size: 160%;
+}
+
+#sekcja {
+    float: left;
+    width: 80%;
+    height: 670px;
+    background-color: rgba(65, 65, 76, 0.68);
+    color: white;
+    text-align: center;
+}
+
+#sekcja img {
+    size-adjust: 50%;
+}
+
+#wowe {
+    text-align: center;
+}
+
+#sekcja p {
+    margin: 15px;
+    color: white;
+}
+
+#podstopka {
+    clear: both;
+    padding: 5px;
+    height: 25px;
+    background-color: rgba(35, 35, 41, 0.68);
+    text-align: center;
+    color: white;
+}
+
+#formularz {
+    color: white;
+    text-align: center;
+}
+
+#wynik {
+    text-align: center;
+    height: auto;
+    width: 250px;
+    padding: 2px;
+    margin: 20px;
+    background-color: white;
+}
